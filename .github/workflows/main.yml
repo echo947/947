@@ -1,0 +1,19 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx3e0635c091474e9d",
+# 公众号appSecret
+"app_secret": "2b20431aa5a121f257d4c7a503c29342",
+# 模板消息id
+"template_id": "oMqI-5kaGXko_5fTzcQDC8wN7KYg",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["oMqI-5o-LpNmqmDBGmzGM-sjc7dU"],
+
+# 信息配置
+# 和风天气apikey
+"weather_key": "47179110acb54026ba745ae9a1236b11",
+# 天行数据apikey
+"tian_api": "2669822a13c1d1034fc6b1a1882cb0b0",
+# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
+"region": "泾阳县",
+
